@@ -20,7 +20,7 @@ function Welcome() {
 
 if you want to return more thant one element, you need to wrap the content in a Fragment which allows JSX to have a single element, but won't get rendered into the DOM.
 
-there are two ways to do this.Either use the React.Fragment element or alternatively you can use the shorthand syntax, <></>
+there are two ways to do this.use the React.Fragment element or alternatively you can use the shorthand syntax, <></>
 
 ```javascript
 function Welcome() {
